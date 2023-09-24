@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/KMKfw/kmk_firmware)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/KMKfw/kmk_firmware)
 
-KMK is a feature-rich and beginner-friendly firmware for computer keyboards
+KMK is a feeture-rich and beginner-friendly firmware for computer keyboards
 written and configured in
 [CircuitPython](https://github.com/adafruit/circuitpython).
 
